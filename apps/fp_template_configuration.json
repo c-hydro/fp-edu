@@ -1,0 +1,14 @@
+{
+  "_comment_": "template configuration file",
+  "version": "0.0.1",
+  "data_list": [],
+  "data_dict":  {},
+  "data_int": 1,
+  "data_float": 2.0,
+  "data_string": "TesT_string_ApP",
+  "data_boolean": false,
+  "data_nested": {
+    "var_string" : "hello_world",
+    "var_list": ["hello", "world"]
+  }
+}

@@ -1,0 +1,16 @@
+2020-02-06 13:54:39,355 root         INFO     fp_template_app.py:[60     -                 main()]  ============================================================================ 
+2020-02-06 13:54:39,355 root         INFO     fp_template_app.py:[61     -                 main()]  ==> FP EXAMPLE TOOL - GENERIC APP (Version: 1.0.0 Release_Date: 2020-02-04)
+2020-02-06 13:54:39,356 root         INFO     fp_template_app.py:[62     -                 main()]  ==> START ... 
+2020-02-06 13:54:39,356 root         INFO     fp_template_app.py:[63     -                 main()]  
+2020-02-06 13:54:39,356 root         INFO     fp_template_app.py:[71     -                 main()]  ===> Execution ... 
+2020-02-06 13:54:39,356 root         INFO     fp_template_app.py:[72     -                 main()]  ====> call apps and functions
+2020-02-06 13:54:39,356 root         INFO     data_io.py:[8      -     get_input_string()]  ===> call 'get_input_string' :-) 
+2020-02-06 13:54:39,356 root         INFO     data_io.py:[16     -      get_input_float()]  ===> call 'get_input_float' :-0 
+2020-02-06 13:54:39,356 root         INFO     data_io.py:[24     -        write_outcome()]  ===> call 'write_outcome' ;-) 
+2020-02-06 13:54:39,357 root         INFO     fp_template_app.py:[81     -                 main()]  ===> Execution ... DONE
+2020-02-06 13:54:39,357 root         INFO     fp_template_app.py:[88     -                 main()]  
+2020-02-06 13:54:39,358 root         INFO     fp_template_app.py:[89     -                 main()]  ==> FP EXAMPLE TOOL - GENERIC APP (Version: 1.0.0 Release_Date: 2020-02-04)
+2020-02-06 13:54:39,358 root         INFO     fp_template_app.py:[90     -                 main()]  ==> TIME ELAPSED: 0.0 seconds
+2020-02-06 13:54:39,358 root         INFO     fp_template_app.py:[91     -                 main()]  ==> ... END
+2020-02-06 13:54:39,358 root         INFO     fp_template_app.py:[92     -                 main()]  ==> Bye, Bye
+2020-02-06 13:54:39,358 root         INFO     fp_template_app.py:[93     -                 main()]  ============================================================================ 
