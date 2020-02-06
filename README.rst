@@ -12,7 +12,19 @@ Background
 Components
 **********
 
-The Flood-PROOFS forecasting chain consists in three different parts ... 
+The Flood-PROOFS forecasting chain consists in three different parts ...
+
+Clone and update the package:
+
+.. code-block:: bash
+    
+    git clone git@github.com:c-hydro/fp-edu.git
+    
+    git add --all
+    time_run=$(date -u +"%Y%m%d_%H:%M"); commit_message='commit_'$time_run; git commit -am $commit_message
+    git push origin master
+    git tag -a v1.0.0 -m "Version v1.0.0 - Generic Release"
+    git push origin v1.0.0 
 
 All codes and datasets are freely available and users can be get them from our github repository [1_].
 
